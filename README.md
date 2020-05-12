@@ -1,2 +1,3 @@
 # Jacque-Fresco-Tribute-Page
-Fresco's tribute page
+FreeCodeCamp Tribute Page Project
+https://arnazarov.github.io/Jacque-Fresco-Tribute-Page/
